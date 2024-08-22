@@ -21,7 +21,7 @@ US GEOTRACES GP15 (Sept 18 to Nov 24, 2018)
 
 ***
 
-Arctic Ocean cruise (May 20 to June 14, 2021)
+Arctic Ocean Cruise (May 20 to June 14, 2021)
 ======
 - Determination of the air-sea exchange of inorganic and methylated mercury from open water, through the marginal ice zone and into completely covered ice regions by measuring dissolved Hg<sup>0</sup> and dimethylmercury (DMHg) and atmospheric Hg speciation (Hg<sup>0</sup>, RGHg and Hg<sup>P</sup>).
 - Quantifying the Hg<sup>0</sup> exchange rates by using the <sup>222</sup>Rn deficiency in the mixed layer with respect to its parent nuclide <sup>226</sup>Ra (collaborated with Dr. David Kadko).
