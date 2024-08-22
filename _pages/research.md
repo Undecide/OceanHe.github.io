@@ -41,7 +41,7 @@ Long Island Sound long-term observation project (May 2018 to Nov 2022)
 **Seagoing Experience**
 
 | Project                   | Ship              | Period                           | Ports                                | Days at Sea |
-| ------------------------- | ----------------- | ----------------------------------------------------------------------- | ----------: |
+| ------------------------- | ----------------- | -------------------------------- | ------------------------------------ | ----------: |
 | Long Island Sound Cruise  | R/V Connecticut   | May 19, 2018 <br> May 23, 2018   | Avery Point, CT <br> Avery Point, CT | 5           |
 | Long Island Sound Cruise  | R/V Connecticut   | May 19, 2018 <br> May 23, 2018   | Avery Point, CT <br> Avery Point, CT | 5           |
 | Long Island Sound Cruise  | R/V Connecticut   | May 19, 2018 <br> May 23, 2018   | Avery Point, CT <br> Avery Point, CT | 5           |
