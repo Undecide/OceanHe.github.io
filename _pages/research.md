@@ -40,9 +40,12 @@ Long Island Sound long-term observation project (May 2018 to Nov 2022)
 
 **Seagoing Experience**
 
-| Project                   | Ship              | Period                           | Ports                                | Days at Sea |
-| ------------------------- | ----------------- | -------------------------------- | ------------------------------------ | ----------: |
-| Long Island Sound Cruise  | R/V Connecticut   | May 19, 2018 <br> May 23, 2018   | Avery Point, CT <br> Avery Point, CT | 5           |
-| Long Island Sound Cruise  | R/V Connecticut   | May 19, 2018 <br> May 23, 2018   | Avery Point, CT <br> Avery Point, CT | 5           |
-| Long Island Sound Cruise  | R/V Connecticut   | May 19, 2018 <br> May 23, 2018   | Avery Point, CT <br> Avery Point, CT | 5           |
+| Project                       | Ship                | Period                         | Ports                                             | Days at Sea |
+| ----------------------------- | ------------------- | ------------------------------ | ------------------------------------------------- | ----------: |
+| Long Island Sound Cruise      | R/V _Connecticut_   | May 19, 2018 <br> May 23, 2018 | Avery Point, CT <br> Avery Point, CT              | 5           |
+| GEOTRACES GP15 Cruise         | R/V _Roger Revelle_ | Sep 18,2018 <br> Oct 21, 2018  | Seattle, WA <br> Hilo, HI                         | 34          |
+| Mason-Kadko Arctic Cruise     | R/V _Sikuliaq_      | May 20, 2021 <br> Jun 14, 2021 | Dutch Harbor, AK <br> Seward, AK                  | 26          |
+| GEOTRACES GP17 Transit Cruise | R/V _Roger Revelle_ | Nov 13, 2022 <br> Nov 30, 2022 | San Diego, CA <br> Tahiti, French Polynesia       | 18          |
+| GEOTRACES GP17-OCE Cruise     | R/V _Roger Revelle_ | Dec 01, 2022 <br> Jan 25, 2023 | Tahiti, French Polynesia <br> Punta Arenas, Chile | 56          |
+|                               |                     |                                |                                                   | Total 139   |
 
