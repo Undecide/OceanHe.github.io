@@ -17,8 +17,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Page not in menu"
-    url: /non-menu-page/    
+  - title: "AAwards"
+    url: /aawards/    
 
   - title: "Teaching"
     url: /teaching/    
