@@ -3,8 +3,8 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 redirect_from: 
-  - /awards/
-  - /awards.html
+  - "/awards/"
+  - "/awards.html"
 ---
 
 > Lastest Update: 22220th May 2024 &nbsp; 中文版本 (Chinese Version)
