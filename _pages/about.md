@@ -11,9 +11,11 @@ I am a chemical oceanographer studying trace metals and radioisotopes for the pu
 
 Education
 ======
-* Ph.D in Marine Sciences, **University of COnnecticut**, 2017 - 2023
+* Ph.D in Marine Sciences, **University of Connecticut**, 2017 - 2023
 * B.S. in Environmental Science, **Peking University**, 2013 - 2017
 
 Work experience
 ======
 * Postdoctoral Research Scientisit, **Florida International University**, 2023 - Present
+* Graduate Research Assistant, **University of Connecticut**, 2017 - 2023
+* Undergraduate Research Assistant, **Peking University**, 2014 - 2017
