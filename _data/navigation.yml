@@ -8,29 +8,11 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Awards-New"
-    url: /awards-new/    
-
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Grants-Awards"
+    url: /grants-awards/    
 
-  - title: "AAwards"
-    url: /aawards/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Presentations"
+    url: /presentations/    
