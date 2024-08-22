@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /awards/index.html
-author_profile: true
 title: Awards
+permalink: /awards/
+author_profile: true
 ---
 
-> Lastest Update: 20th May 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+> Lastest Update: 20th May 2024 &nbsp; 中文版本 (Chinese Version)
 
 ## Scholarships
 
