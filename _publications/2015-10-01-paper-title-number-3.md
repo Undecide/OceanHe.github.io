@@ -7,5 +7,8 @@ date: 2015-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+link: 'https://doi.org/10.1017/psrm.2019.23'
+code: 'https://doi.org/10.7910/DVN/VUY8UI'
+github: 'https://github.com/jayrobwilliams/Peace-Agreement-Strength'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
