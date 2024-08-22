@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /awards/index.html
+author_profile: true
 title: Awards
 ---
 
