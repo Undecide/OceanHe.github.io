@@ -1,10 +1,8 @@
 ---
+layout: archive
 permalink: /grants-awards/
 title: "Grants&Awards"
 author_profile: true
-redirect_from: 
-  - "/grants-awards/"
-  - "/grants-awards.html"
 ---
 
 This is a page not in the menu. You can use markdown in this page.
