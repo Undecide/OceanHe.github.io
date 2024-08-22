@@ -7,7 +7,7 @@ redirect_from:
   - /awards.html
 ---
 
-> Lastest Update: 20th May 2024 &nbsp; 中文版本 (Chinese Version)
+> Lastest Update: 22220th May 2024 &nbsp; 中文版本 (Chinese Version)
 
 ## Scholarships
 
