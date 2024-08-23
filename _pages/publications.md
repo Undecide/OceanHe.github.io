@@ -49,17 +49,12 @@ Peer-Reviewed
 
 - Liu, M., Du, P., Yu, C., **He, Y.,** Zhang, H., Sun, X., ... & Tong, Y. **(2018)**. Increases of total mercury and methylmercury releases from municipal sewage into environment in China and implications. **_Environmental Science & Technology_**, 52(1), 124-134. doi: 10.1021/acs.est.7b05217.
 
+<!-- {% if author.googlescholar %}
+You can also find my articles on <u><a href="{{author.googlescholar}}">1my Google Scholar profile</a>.</u>
+{% endif %}
 
+{% include base_path %}
 
-
-
-
-# {% if author.googlescholar %}
-#  You can also find my articles on <u><a href="{{author.googlescholar}}">1my Google Scholar profile</a>.</u>
-# {% endif %}
-
-# {% include base_path %}
-
-# {% for post in site.publications reversed %}
-#  {% include archive-single-new.html %}
-# {% endfor %}
+{% for post in site.publications reversed %}
+{% include archive-single-new.html %}
+{% endfor %} -->
