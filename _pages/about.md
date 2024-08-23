@@ -18,4 +18,5 @@ Work experience
 ======
 * Postdoctoral Research Scientisit, **Florida International University**, 2023 - Present
 * Graduate Research Assistant, **University of Connecticut**, 2017 - 2023
+* Summer Research Intern, **Harvard University**, 2016
 * Undergraduate Research Assistant, **Peking University**, 2014 - 2017
