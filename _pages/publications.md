@@ -15,7 +15,6 @@ Manuscripts in Review
 
 Peer-Reviewed
 ======
-
 - Dastoor, A., Angot, H., Bieser, J., Brocza, F., Edwards, B., Feinberg, A., Feng, X., Geyman, B., Gournia, C., **He, Y.,** ... & Zolkos, S. **(2024)**. The Multi-Compartment Hg Modeling and Analysis Project (MCHgMAP): Mercury modeling to support international environmental policy. **_Geoscientific Model Development Discussions_**, 2024, 1-171. doi: [10.5194/gmd-2024-65](https://doi.org/10.5194/gmd-2024-65).
 
 - **He, Y.,** Shi, X., Huffman, W. W., Lamborg, C. H. & Mason, R. P. **(2022)**. Description of a Dimethylmercury Automatic Analyzer for the High-Resolution Measurement of Dissolved Gaseous Mercury Species in Surface Ocean Waters. **_Environmental Science & Technology_**, 56(18), 13076-13084. doi: [10.1021/acs.est.2c02908](https://doi.org/10.1021/acs.est.2c02908).
