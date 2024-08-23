@@ -5,8 +5,6 @@ title: "Presentations"
 author_profile: true
 ---
 
-Presentations
-======
 - **He, Y.,** Inman, H., Mason, R. P., Despins, M., & Lamborg, C. Air-sea exchange of elemental Hg and dimethylmercury in the South Pacific and Southern Ocean. _16th International Conference on Mercury as a Global Pollutant_. **Jul 2024**. (Oral)
 
 - **He, Y.,** Stephens, M., Hammond, D., & Mason, R. P. Estimates of mercury air-sea gas exchange rates from radon-222 profiles in the Bering Sea and the Chukchi Sea marginal ice zone. _Ocean Sciences Meeting 2024_. **Feb 2024**. (Poster)
