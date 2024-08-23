@@ -21,7 +21,7 @@ Peer-Reviewed
 
 - Liu, M., Zhang, Q., Yu, C., Yuan, L., **He, Y.,** ... & Wang, X. **(2021)**. Observation-Based Mercury Export from Rivers to Coastal Oceans in East Asia. **_Environmental Science & Technology_**, 55(20), 14269-14280. doi: [10.1021/acs.est.1c03755](https://doi.org/10.1021/acs.est.1c03755).
 
-- **He, Y.,** & Mason, R. P. **(2021)**. Comparison of reactive gaseous mercury measured by KCl-coated denuders and cation exchange membranes during the Pacific GEOTRACES GP15 expedition. **_Atmospheric Environment_**, 244, 117973. doi: [10.1016/j.atmosenv.2020.117973](https://doi.org/10.1016/j.atmosenv.2020.117973).
+- **He, Y.** & Mason, R. P. **(2021)**. Comparison of reactive gaseous mercury measured by KCl-coated denuders and cation exchange membranes during the Pacific GEOTRACES GP15 expedition. **_Atmospheric Environment_**, 244, 117973. doi: [10.1016/j.atmosenv.2020.117973](https://doi.org/10.1016/j.atmosenv.2020.117973).
 
 - Liu, M., **He, Y.,** Baumann, Z., Zhang, Q., Jing, X., Mason, R. P., ... & Wang, X. **(2020)**. The impact of the Three Gorges Dam on the fate of metal contaminants across the river–ocean continuum. **_Water Research_**, 185, 116295. doi: [10.1016/j.watres.2020.116295](https://doi.org/10.1016/j.watres.2020.116295).
 
