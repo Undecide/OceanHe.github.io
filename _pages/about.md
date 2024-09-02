@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a chemical oceanographer studying trace metals and radioisotopes for the purpose of understanding human influences on marine chemistry and oceanic processes. I am now working on a GEOTRACES project utilizing radioisotope Be-7 to understand the atmospheric deposition into ocean and its influence on the bioactive trace metals in the south Pacific Ocean and the Antarctic Ocean at the Applied Research Center in Florida International University.
+I am a chemical oceanographer studying trace metals (i.e. Hg) and radioisotopes for the purpose of understanding human influences on marine chemistry and oceanic processes. I am now working on a GEOTRACES project utilizing radioisotope Be-7 to understand the atmospheric deposition into ocean and its influence on the bioactive trace metals in the south Pacific Ocean and the Antarctic Ocean at the Applied Research Center in Florida International University.
 
 Education
 ======
