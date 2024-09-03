@@ -12,9 +12,9 @@ title                    : "Yipeng He"
 title_separator          : "-"
 name                     : &name "Yipeng He"
 description              : &description "personal description1"
-url                      : https://undecide.github.io/OceanHe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://undecide.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "undecide/OceanHe.github.io"
+repository               : "undecide.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
